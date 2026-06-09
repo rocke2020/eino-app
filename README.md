@@ -1,2 +1,2 @@
 # eino-app
-go lang llm app
+go lang ai app
